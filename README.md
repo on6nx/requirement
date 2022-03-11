@@ -45,5 +45,3 @@ ppt文献引用要标注那里引用了，不够详细，要把文档中重要�
 
 按照wbs展开工程（增删wbs）
 会议纪要不够详细（我很难打分）
-
-https://wqbook.wqxuetang.com/read/pdf?bid=2130890
